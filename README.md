@@ -116,6 +116,6 @@
 
 特别感谢原始项目的作者 Akash Deep Singh, Sandeep Singh Sandha, Luis Garcia 和 Mani Srivastava 提供的基础代码。
 
-如果您在研究或项目中使用了本代码，请引用原始论文目。
+如果您在研究或项目中使用了本代码，请引用原始论文。
 
 如果您觉得本项目对您有帮助，请为本项目点亮一颗星星（⭐）！感谢！
